@@ -1,0 +1,31 @@
+{
+    "repository": "PG-Edge-Container",
+    "full_name": "Junwu0615/PG-Edge-Container",
+    "description": "Platform Genesis Edge Runtime • Containerized Edge Services",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 0,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Makefile",
+        "size_kb": 33
+    },
+    "activity": {
+        "created_at": "2026-05-08T12:57:08+00:00",
+        "updated_at": "2026-07-04T08:08:33+00:00",
+        "pushed_at": "2026-06-22T06:22:06+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 13,
+            "uniques": 1
+        },
+        "clones": {
+            "count": 18,
+            "uniques": 14
+        }
+    },
+    "generated_at": "2026-07-06T13:48:01.297057"
+}

@@ -1,0 +1,31 @@
+{
+    "repository": "PG-Cortex",
+    "full_name": "Junwu0615/PG-Cortex",
+    "description": "Platform Genesis AI Platform • LLMOps, ML Platform & Model Serving",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 0,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": null,
+        "size_kb": 6
+    },
+    "activity": {
+        "created_at": "2026-07-03T16:04:26+00:00",
+        "updated_at": "2026-07-05T02:31:01+00:00",
+        "pushed_at": "2026-07-05T02:30:56+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 30,
+            "uniques": 2
+        },
+        "clones": {
+            "count": 40,
+            "uniques": 25
+        }
+    },
+    "generated_at": "2026-07-06T13:47:51.597296"
+}

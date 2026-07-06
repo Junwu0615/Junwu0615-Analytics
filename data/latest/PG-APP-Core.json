@@ -1,0 +1,31 @@
+{
+    "repository": "PG-APP-Core",
+    "full_name": "Junwu0615/PG-APP-Core",
+    "description": "Platform Genesis Workloads • Reference Applications & Validation Workloads",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 0,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 143
+    },
+    "activity": {
+        "created_at": "2026-05-08T12:56:29+00:00",
+        "updated_at": "2026-07-05T14:40:38+00:00",
+        "pushed_at": "2026-07-05T14:40:34+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 26,
+            "uniques": 3
+        },
+        "clones": {
+            "count": 53,
+            "uniques": 30
+        }
+    },
+    "generated_at": "2026-07-06T13:47:58.093877"
+}
