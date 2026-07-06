@@ -230,7 +230,7 @@ def generate_growth() -> str:
     lines.append(f"> _Statistical Scope :　**{'-'.join(history[-1].stem.split('-')[:2])}**_")
     lines.append("")
     lines.append("| *📁<br>Repository* | *⭐<br>Stars ↕* | *🍴<br>Forks ↕* | *💡<br>Open Issues ↕* | *👀<br>Views ↕<br>( 14 Days )* | *📥<br>Clones ↕<br>( 14 Days )* |")
-    lines.append("|:--|--:|--:|--:|--:|--:|")
+    lines.append("|:--|:--:|:--:|:--:|:--:|:--:|")
 
     for repo in SORTED_LIST:
         first = first_record[repo]
