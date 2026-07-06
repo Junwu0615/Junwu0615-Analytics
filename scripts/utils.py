@@ -31,19 +31,6 @@ DATA_DIR = PROJECT_ROOT / "data"
 LATEST_DIR = DATA_DIR / "latest"
 REPORT_DIR = PROJECT_ROOT / "reports"
 HISTORY_DIR = PROJECT_ROOT / "history"
-SORTED_LIST = [
-    'Platform-Genesis',
-    'PG-Core',
-    'PG-Synapse',
-    'PG-Cortex',
-    'PG-Sentinel',
-    'PG-Analytics',
-    'PG-Infrastructure',
-    'PG-APP-Core',
-    'PG-Shared-Lib',
-    'PG-Edge-Container',
-    'PG-Airflow-DAGs',
-]
 
 # ==============================================================================
 # Logger
@@ -197,3 +184,9 @@ def analytics_config() -> dict[str, Any]:
     Load analytics.yml
     """
     return load_yaml(CONFIG_DIR / "analytics.yml")
+
+
+config = repositories_config()
+repo_names = [repo['name'] for repo in config.get('repositories', [])]
+repo_names.sort(key=str.lower)
+SORTED_LIST = repo_names

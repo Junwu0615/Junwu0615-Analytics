@@ -1,3 +1,4 @@
+# curl -s "https://api.github.com/users/junwu0615/repos?per_page=100" | jq -r '.[].name'
 owner: Junwu0615
 
 timezone: Asia/Taipei
@@ -57,6 +58,191 @@ repositories:
 #    enabled: false
 
   - name: PG-Airflow-DAGs
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Activity-Tracker
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Airflow-E2E-DevEnv
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Airflow-Template
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Ansible-Deploy-To-Edge
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: CAED
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Cloudflare-Dockerization
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Crawler-Keywords-And-Use-LineBot
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Database-Template
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Docker-Registry-Server
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Downloads-YouTube-To-MP3-4
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Forex-Get-Quotes
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: github-readme-terminal
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: How-To-Use-Clone-Shields
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Junwu0615
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Junwu0615-Analytics
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Junwu0615.github.io
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Latency-Throughput-Simulation-Test
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: LCII-Rec-Model
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: LeetCode-Practice-Record
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: LeetCode-Record-Sharing-Method
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: My-English-Learning-Journey
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: NGROK-Dockerization
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: NVDA-Price-Stock-Prediction
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: One-Click-Database-Deployment
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Other
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Parsing-Media-From-JVID
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Parsing-Media-From-PornHub
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: PC-Activity-Tracker
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: PC-Bot-With-GenAI
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: RAG-With-LangChain-And-FAISS
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: RESTful-API-FastAPI
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: ROI-Tool
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: The-First-PHP-Login-System
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Using-Streamlit-Create-Dashboard
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Web-Crawler-Download-Img
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Web-Crawler-FamilyMart-Shop
+    group: Components
+    enabled: true
+#    enabled: false
+
+  - name: Web-Crawler-News
     group: Components
     enabled: true
 #    enabled: false
