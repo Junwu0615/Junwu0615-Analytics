@@ -1,0 +1,31 @@
+{
+    "repository": "Web-Crawler-FamilyMart-Shop",
+    "full_name": "Junwu0615/Web-Crawler-FamilyMart-Shop",
+    "description": "Web Crawler : 全家所有商家屬性 ( Crawler / CSV / Python )",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 1491
+    },
+    "activity": {
+        "created_at": "2025-01-01T06:49:59+00:00",
+        "updated_at": "2025-10-02T09:10:26+00:00",
+        "pushed_at": "2025-01-03T15:22:18+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 0,
+            "uniques": 0
+        },
+        "clones": {
+            "count": 4,
+            "uniques": 3
+        }
+    },
+    "generated_at": "2026-07-06T14:06:52.250440"
+}

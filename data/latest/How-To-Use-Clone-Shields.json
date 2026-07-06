@@ -1,0 +1,31 @@
+{
+    "repository": "How-To-Use-Clone-Shields",
+    "full_name": "Junwu0615/How-To-Use-Clone-Shields",
+    "description": "如何在 README 使用 Clone 圖標 ( Clone / Git / Git-Gist / Markdown )",
+    "private": false,
+    "repository_metrics": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 527
+    },
+    "activity": {
+        "created_at": "2023-12-28T19:12:42+00:00",
+        "updated_at": "2025-02-02T05:28:08+00:00",
+        "pushed_at": "2024-11-24T15:04:56+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 22,
+            "uniques": 1
+        },
+        "clones": {
+            "count": 3,
+            "uniques": 3
+        }
+    },
+    "generated_at": "2026-07-06T14:06:23.703998"
+}

@@ -2,11 +2,11 @@
 
 | *📐 Metric* | *🧮 Value* |
 |:--|--:|
-| *📁 Total Repositories* | *11* |
-| *⭐ Total Stars* | *12* |
-| *🍴 Total Forks* | *0* |
-| *📦 Size (MB)* | *55.20* |
-| *👀 Total Views* | *967* |
-| *👤 Total Unique Visitors* | *45* |
-| *📥 Total Clones* | *2219* |
-| *👤 Total Unique Cloners* | *873* |
+| *📁 Total Repositories* | *48* |
+| *⭐ Total Stars* | *69* |
+| *🍴 Total Forks* | *4* |
+| *📦 Size (MB)* | *235.02* |
+| *👀 Total Views* | *1347* |
+| *👤 Total Unique Visitors* | *201* |
+| *📥 Total Clones* | *3399* |
+| *👤 Total Unique Cloners* | *1331* |

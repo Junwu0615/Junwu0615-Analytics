@@ -1,0 +1,31 @@
+{
+    "repository": "Airflow-Template",
+    "full_name": "Junwu0615/Airflow-Template",
+    "description": "Apache Airflow / Docker 學習筆記",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 556
+    },
+    "activity": {
+        "created_at": "2025-01-17T13:01:42+00:00",
+        "updated_at": "2025-10-02T09:06:44+00:00",
+        "pushed_at": "2025-09-25T09:38:38+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 0,
+            "uniques": 0
+        },
+        "clones": {
+            "count": 1,
+            "uniques": 1
+        }
+    },
+    "generated_at": "2026-07-06T14:06:11.188727"
+}

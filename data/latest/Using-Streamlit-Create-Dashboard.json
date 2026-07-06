@@ -1,0 +1,31 @@
+{
+    "repository": "Using-Streamlit-Create-Dashboard",
+    "full_name": "Junwu0615/Using-Streamlit-Create-Dashboard",
+    "description": "Dashboard ( Streamlit / Plotly / Python )",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 17690
+    },
+    "activity": {
+        "created_at": "2025-01-04T07:22:16+00:00",
+        "updated_at": "2025-10-30T03:16:22+00:00",
+        "pushed_at": "2025-10-30T03:16:19+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 0,
+            "uniques": 0
+        },
+        "clones": {
+            "count": 2,
+            "uniques": 2
+        }
+    },
+    "generated_at": "2026-07-06T14:06:49.723096"
+}

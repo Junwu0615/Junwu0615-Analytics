@@ -1,0 +1,31 @@
+{
+    "repository": "Latency-Throughput-Simulation-Test",
+    "full_name": "Junwu0615/Latency-Throughput-Simulation-Test",
+    "description": "比較 Go 與 Python 在大數據流處理情境下的吞吐量與延遲效能",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 0,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 6186
+    },
+    "activity": {
+        "created_at": "2025-10-02T08:51:18+00:00",
+        "updated_at": "2025-10-15T18:08:40+00:00",
+        "pushed_at": "2025-10-15T18:08:37+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 0,
+            "uniques": 0
+        },
+        "clones": {
+            "count": 3,
+            "uniques": 3
+        }
+    },
+    "generated_at": "2026-07-06T14:06:28.620159"
+}

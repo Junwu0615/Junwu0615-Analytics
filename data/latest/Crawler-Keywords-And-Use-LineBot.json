@@ -1,0 +1,31 @@
+{
+    "repository": "Crawler-Keywords-And-Use-LineBot",
+    "full_name": "Junwu0615/Crawler-Keywords-And-Use-LineBot",
+    "description": "多功能聊天機器人 ( LINE Bot / Crawler / Ngrok / Python )",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 1065
+    },
+    "activity": {
+        "created_at": "2023-12-19T12:19:17+00:00",
+        "updated_at": "2024-12-29T05:49:47+00:00",
+        "pushed_at": "2024-12-29T05:49:44+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 1,
+            "uniques": 1
+        },
+        "clones": {
+            "count": 3,
+            "uniques": 3
+        }
+    },
+    "generated_at": "2026-07-06T14:06:16.303794"
+}

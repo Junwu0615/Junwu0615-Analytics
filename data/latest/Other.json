@@ -1,0 +1,31 @@
+{
+    "repository": "Other",
+    "full_name": "Junwu0615/Other",
+    "description": "其他 : 常見問題集 ( Markdown )",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "master",
+        "language": "Python",
+        "size_kb": 463
+    },
+    "activity": {
+        "created_at": "2023-12-08T12:55:07+00:00",
+        "updated_at": "2025-10-02T09:09:20+00:00",
+        "pushed_at": "2025-02-12T14:40:16+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 1,
+            "uniques": 1
+        },
+        "clones": {
+            "count": 3,
+            "uniques": 2
+        }
+    },
+    "generated_at": "2026-07-06T14:06:38.537667"
+}

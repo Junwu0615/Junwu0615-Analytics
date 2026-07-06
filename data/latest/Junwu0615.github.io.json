@@ -1,0 +1,31 @@
+{
+    "repository": "Junwu0615.github.io",
+    "full_name": "Junwu0615/Junwu0615.github.io",
+    "description": "Ping Chun's Github.io",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "HTML",
+        "size_kb": 5
+    },
+    "activity": {
+        "created_at": "2024-01-27T16:50:54+00:00",
+        "updated_at": "2025-10-02T09:11:10+00:00",
+        "pushed_at": "2024-01-28T15:38:59+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 0,
+            "uniques": 0
+        },
+        "clones": {
+            "count": 1,
+            "uniques": 1
+        }
+    },
+    "generated_at": "2026-07-06T14:06:27.389875"
+}

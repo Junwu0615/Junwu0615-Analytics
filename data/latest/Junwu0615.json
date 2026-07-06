@@ -1,0 +1,31 @@
+{
+    "repository": "Junwu0615",
+    "full_name": "Junwu0615/Junwu0615",
+    "description": "Git Personalization Page",
+    "private": false,
+    "repository_metrics": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "open_issues": 0,
+        "default_branch": "main",
+        "language": "Python",
+        "size_kb": 7531
+    },
+    "activity": {
+        "created_at": "2023-12-26T22:16:07+00:00",
+        "updated_at": "2026-07-06T03:59:02+00:00",
+        "pushed_at": "2026-07-06T03:59:15+00:00"
+    },
+    "traffic": {
+        "views": {
+            "count": 11,
+            "uniques": 2
+        },
+        "clones": {
+            "count": 510,
+            "uniques": 176
+        }
+    },
+    "generated_at": "2026-07-06T14:06:24.930376"
+}
