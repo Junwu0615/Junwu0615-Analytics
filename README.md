@@ -2,7 +2,7 @@
 > _🧟‍♂️ Starting from July 6, 2026, this project will continuously record the entire project journey of Junwu0615._ 
 <!-- update_time:start -->
 >
-> _Generated at [ UTC+0 ] :　2026-07-13T18:19:20_
+> _Generated at [ UTC+0 ] :　2026-07-14T10:49:03_
 
 <!-- update_time:end -->
 
@@ -98,14 +98,14 @@ tree -I 'venv|.git|__pycache__|docs|logs|assets|kafka_data|charts'
 
 | *📐 Metric* | *🧮 Value* |
 |:--|--:|
-| *📁 Total Repositories* | *48* |
-| *⭐ Total Stars* | *69* |
+| *📁 Total Repositories* | *49* |
+| *⭐ Total Stars* | *70* |
 | *🍴 Total Forks* | *4* |
-| *📦 Size (MB)* | *237.39* |
-| *👀 Total Views* | *1217* |
-| *👤 Total Unique Visitors* | *155* |
-| *📥 Total Clones* | *3087* |
-| *👤 Total Unique Cloners* | *1240* |
+| *📦 Size (MB)* | *238.10* |
+| *👀 Total Views* | *1299* |
+| *👤 Total Unique Visitors* | *162* |
+| *📥 Total Clones* | *3298* |
+| *👤 Total Unique Cloners* | *1322* |
 <!-- summary:end -->
 
 <br>
@@ -129,21 +129,22 @@ tree -I 'venv|.git|__pycache__|docs|logs|assets|kafka_data|charts'
  | *Forex-Get-Quotes* | *3* | *0* | *1.58* | *2025-09-26* | *2024-09-11* |
  | *github-readme-terminal* | *1* | *0* | *0.23* | *2024-11-08* | *2025-02-16* |
  | *How-To-Use-Clone-Shields* | *2* | *0* | *0.51* | *2024-11-24* | *2023-12-28* |
- | *Junwu0615* | *1* | *0* | *7.49* | *2026-07-13* | *2023-12-26* |
- | *Junwu0615-Analytics* | *1* | *0* | *0.15* | *2026-07-12* | *2026-07-06* |
+ | *Junwu0615* | *1* | *0* | *7.49* | *2026-07-14* | *2023-12-26* |
+ | *Junwu0615-Analytics* | *1* | *0* | *0.16* | *2026-07-14* | *2026-07-06* |
  | *Junwu0615.github.io* | *1* | *0* | *0.00* | *2024-01-28* | *2024-01-27* |
  | *Latency-Throughput-Simulation-Test* | *1* | *0* | *6.04* | *2025-10-15* | *2025-10-02* |
  | *LCII-Rec-Model* | *2* | *0* | *1.16* | *2024-12-29* | *2023-12-08* |
  | *LeetCode-Practice-Record* | *1* | *0* | *0.05* | *2025-11-24* | *2025-02-02* |
  | *LeetCode-Record-Sharing-Method* | *1* | *0* | *95.90* | *2024-12-29* | *2024-01-26* |
  | *My-English-Learning-Journey* | *1* | *0* | *0.04* | *2026-03-09* | *2026-03-04* |
+ | *My-Win-Apps* | *1* | *0* | *0.70* | *2026-07-14* | *2026-07-12* |
  | *NGROK-Dockerization* | *1* | *0* | *0.12* | *2025-01-24* | *2025-01-24* |
  | *NVDA-Price-Stock-Prediction* | *1* | *0* | *1.23* | *2024-12-29* | *2024-02-25* |
  | *One-Click-Database-Deployment* | *1* | *0* | *0.53* | *2025-09-26* | *2025-02-27* |
  | *Other* | *1* | *0* | *0.45* | *2025-02-12* | *2023-12-08* |
  | *Parsing-Media-From-JVID* | *8* | *3* | *0.42* | *2025-11-14* | *2024-12-15* |
  | *Parsing-Media-From-PornHub* | *3* | *1* | *0.34* | *2024-12-29* | *2024-12-18* |
- | *PC-Activity-Tracker* | *1* | *0* | *0.27* | *2026-07-13* | *2025-11-16* |
+ | *PC-Activity-Tracker* | *1* | *0* | *0.27* | *2026-07-14* | *2025-11-16* |
  | *PC-Bot-With-GenAI* | *4* | *0* | *7.30* | *2026-04-14* | *2025-01-07* |
  | *PG-Airflow-DAGs* | *1* | *0* | *0.06* | *2026-06-22* | *2026-05-08* |
  | *PG-Analytics* | *1* | *0* | *0.21* | *2026-07-13* | *2026-07-03* |
@@ -179,55 +180,56 @@ tree -I 'venv|.git|__pycache__|docs|logs|assets|kafka_data|charts'
 | *Airflow-E2E-DevEnv* | *13* | *3* | *5* | *5* |
 | *Airflow-Template* | *0* | *0* | *1* | *1* |
 | *Ansible-Deploy-To-Edge* | *0* | *0* | *1* | *1* |
-| *CAED* | *0* | *0* | *4* | *3* |
+| *CAED* | *0* | *0* | *3* | *2* |
 | *Cloudflare-Dockerization* | *0* | *0* | *2* | *1* |
 | *Crawler-Keywords-And-Use-LineBot* | *1* | *1* | *1* | *1* |
 | *Database-Template* | *1* | *1* | *0* | *0* |
 | *Docker-Registry-Server* | *1* | *1* | *0* | *0* |
-| *Downloads-YouTube-To-MP3-4* | *20* | *14* | *1* | *1* |
+| *Downloads-YouTube-To-MP3-4* | *21* | *15* | *1* | *1* |
 | *Forex-Get-Quotes* | *2* | *1* | *0* | *0* |
-| *github-readme-terminal* | *0* | *0* | *2* | *2* |
+| *github-readme-terminal* | *0* | *0* | *1* | *1* |
 | *How-To-Use-Clone-Shields* | *22* | *1* | *1* | *1* |
-| *Junwu0615* | *23* | *3* | *397* | *142* |
-| *Junwu0615-Analytics* | *22* | *4* | *78* | *48* |
+| *Junwu0615* | *19* | *3* | *386* | *140* |
+| *Junwu0615-Analytics* | *25* | *4* | *81* | *50* |
 | *Junwu0615.github.io* | *0* | *0* | *1* | *1* |
 | *Latency-Throughput-Simulation-Test* | *0* | *0* | *1* | *1* |
 | *LCII-Rec-Model* | *0* | *0* | *1* | *1* |
 | *LeetCode-Practice-Record* | *0* | *0* | *1* | *1* |
-| *LeetCode-Record-Sharing-Method* | *0* | *0* | *2* | *2* |
+| *LeetCode-Record-Sharing-Method* | *1* | *1* | *1* | *1* |
 | *My-English-Learning-Journey* | *0* | *0* | *2* | *2* |
+| *My-Win-Apps* | *94* | *3* | *228* | *97* |
 | *NGROK-Dockerization* | *0* | *0* | *4* | *3* |
 | *NVDA-Price-Stock-Prediction* | *1* | *1* | *0* | *0* |
 | *One-Click-Database-Deployment* | *1* | *1* | *1* | *1* |
 | *Other* | *0* | *0* | *2* | *1* |
-| *Parsing-Media-From-JVID* | *169* | *82* | *5* | *5* |
+| *Parsing-Media-From-JVID* | *172* | *84* | *6* | *6* |
 | *Parsing-Media-From-PornHub* | *1* | *1* | *1* | *1* |
-| *PC-Activity-Tracker* | *0* | *0* | *386* | *142* |
-| *PC-Bot-With-GenAI* | *7* | *3* | *2* | *2* |
+| *PC-Activity-Tracker* | *0* | *0* | *381* | *139* |
+| *PC-Bot-With-GenAI* | *8* | *3* | *2* | *2* |
 | *PG-Airflow-DAGs* | *12* | *3* | *4* | *4* |
-| *PG-Analytics* | *344* | *3* | *994* | *323* |
-| *PG-APP-Core* | *26* | *2* | *95* | *50* |
-| *PG-Core* | *90* | *3* | *322* | *132* |
+| *PG-Analytics* | *344* | *3* | *999* | *327* |
+| *PG-APP-Core* | *26* | *2* | *96* | *51* |
+| *PG-Core* | *91* | *3* | *323* | *133* |
 | *PG-Cortex* | *30* | *2* | *46* | *30* |
 | *PG-Edge-Container* | *8* | *1* | *3* | *3* |
-| *PG-Infrastructure* | *75* | *3* | *182* | *76* |
+| *PG-Infrastructure* | *75* | *3* | *206* | *75* |
 | *PG-Sentinel* | *24* | *2* | *36* | *29* |
 | *PG-Shared-Lib* | *14* | *3* | *7* | *4* |
 | *PG-Synapse* | *27* | *3* | *51* | *34* |
-| *Platform-Genesis* | *280* | *11* | *431* | *174* |
-| *RAG-With-LangChain-And-FAISS* | *1* | *1* | *2* | *2* |
+| *Platform-Genesis* | *262* | *11* | *401* | *162* |
+| *RAG-With-LangChain-And-FAISS* | *0* | *0* | *1* | *1* |
 | *RESTful-API-FastAPI* | *0* | *0* | *2* | *1* |
 | *ROI-Tool* | *0* | *0* | *1* | *1* |
 | *The-First-PHP-Login-System* | *0* | *0* | *1* | *1* |
-| *Using-Streamlit-Create-Dashboard* | *2* | *1* | *2* | *2* |
-| *Web-Crawler-Download-Img* | *0* | *0* | *1* | *1* |
+| *Using-Streamlit-Create-Dashboard* | *2* | *1* | *1* | *1* |
+| *Web-Crawler-Download-Img* | *1* | *1* | *0* | *0* |
 | *Web-Crawler-FamilyMart-Shop* | *0* | *0* | *3* | *2* |
 | *Web-Crawler-News* | *0* | *0* | *1* | *1* |
 - ### *Summary*
-  - *👀 Views :　1217*
-  - *👤 Unique Visitors :　155*
-  - *📥 Clones :　3087*
-  - *👤 Unique Cloners :　1240*
+  - *👀 Views :　1299*
+  - *👤 Unique Visitors :　162*
+  - *📥 Clones :　3298*
+  - *👤 Unique Cloners :　1322*
 <!-- traffic:end -->
 
 <br>
@@ -243,48 +245,49 @@ tree -I 'venv|.git|__pycache__|docs|logs|assets|kafka_data|charts'
 | *Airflow-E2E-DevEnv* | *+0* | *+0* | *+0* |*+4* | *-6* | 
 | *Airflow-Template* | *+0* | *+0* | *+0* |*+0* | *+0* | 
 | *Ansible-Deploy-To-Edge* | *+0* | *+0* | *+0* |*-2* | *+0* | 
-| *CAED* | *+0* | *+0* | *+0* |*+0* | *+0* | 
+| *CAED* | *+0* | *+0* | *+0* |*+0* | *-2* | 
 | *Cloudflare-Dockerization* | *+0* | *+0* | *+0* |*+0* | *-2* | 
 | *Crawler-Keywords-And-Use-LineBot* | *+0* | *+0* | *+0* |*+0* | *-4* | 
 | *Database-Template* | *+0* | *+0* | *+0* |*+2* | *-2* | 
 | *Docker-Registry-Server* | *+0* | *+0* | *+0* |*+2* | *-2* | 
-| *Downloads-YouTube-To-MP3-4* | *+0* | *+0* | *+0* |*-1* | *+0* | 
+| *Downloads-YouTube-To-MP3-4* | *+0* | *+0* | *+0* |*+1* | *+0* | 
 | *Forex-Get-Quotes* | *+0* | *+0* | *+0* |*+1* | *-2* | 
-| *github-readme-terminal* | *+0* | *+0* | *+0* |*+0* | *+0* | 
+| *github-readme-terminal* | *+0* | *+0* | *+0* |*+0* | *-2* | 
 | *How-To-Use-Clone-Shields* | *+0* | *+0* | *+0* |*+0* | *-4* | 
-| *Junwu0615* | *+0* | *+0* | *+0* |*+13* | *-147* | 
-| *Junwu0615-Analytics* | *+0* | *+0* | *+0* |*+26* | *+126* | 
+| *Junwu0615* | *+0* | *+0* | *+0* |*+9* | *-160* | 
+| *Junwu0615-Analytics* | *+0* | *+0* | *+0* |*+29* | *+131* | 
 | *Junwu0615.github.io* | *+0* | *+0* | *+0* |*+0* | *+0* | 
 | *Latency-Throughput-Simulation-Test* | *+0* | *+0* | *+0* |*+0* | *-4* | 
 | *LCII-Rec-Model* | *+0* | *+0* | *+0* |*+0* | *+0* | 
 | *LeetCode-Practice-Record* | *+0* | *+0* | *+0* |*+0* | *+0* | 
-| *LeetCode-Record-Sharing-Method* | *+0* | *+0* | *+0* |*+0* | *+0* | 
+| *LeetCode-Record-Sharing-Method* | *+0* | *+0* | *+0* |*+2* | *-2* | 
 | *My-English-Learning-Journey* | *+0* | *+0* | *+0* |*+0* | *-4* | 
+| *My-Win-Apps* | *+0* | *+0* | *+0* |*+0* | *+0* | 
 | *NGROK-Dockerization* | *+0* | *+0* | *+0* |*-2* | *-2* | 
 | *NVDA-Price-Stock-Prediction* | *+0* | *+0* | *+0* |*+0* | *-2* | 
 | *One-Click-Database-Deployment* | *+0* | *+0* | *+0* |*-1* | *-4* | 
 | *Other* | *+0* | *+0* | *+0* |*-2* | *-2* | 
-| *Parsing-Media-From-JVID* | *+0* | *+0* | *+0* |*-158* | *-4* | 
+| *Parsing-Media-From-JVID* | *+0* | *+0* | *+0* |*-153* | *-2* | 
 | *Parsing-Media-From-PornHub* | *+0* | *+0* | *+0* |*+0* | *-2* | 
-| *PC-Activity-Tracker* | *+0* | *+0* | *+0* |*-4* | *-245* | 
-| *PC-Bot-With-GenAI* | *+0* | *+0* | *+0* |*+4* | *-14* | 
+| *PC-Activity-Tracker* | *+0* | *+0* | *+0* |*-4* | *-253* | 
+| *PC-Bot-With-GenAI* | *+0* | *+0* | *+0* |*+5* | *-14* | 
 | *PG-Airflow-DAGs* | *+0* | *+0* | *+0* |*-4* | *-8* | 
-| *PG-Analytics* | *+0* | *+0* | *+0* |*+12* | *+143* | 
-| *PG-APP-Core* | *+0* | *+0* | *+0* |*-1* | *+62* | 
-| *PG-Core* | *+0* | *+0* | *+0* |*+30* | *+76* | 
+| *PG-Analytics* | *+0* | *+0* | *+0* |*+12* | *+152* | 
+| *PG-APP-Core* | *+0* | *+0* | *+0* |*-1* | *+64* | 
+| *PG-Core* | *+0* | *+0* | *+0* |*+31* | *+78* | 
 | *PG-Cortex* | *+0* | *+0* | *+0* |*+0* | *+11* | 
 | *PG-Edge-Container* | *+0* | *+0* | *+0* |*-5* | *-26* | 
-| *PG-Infrastructure* | *+0* | *+0* | *+0* |*+7* | *+14* | 
+| *PG-Infrastructure* | *+0* | *+0* | *+0* |*+7* | *+37* | 
 | *PG-Sentinel* | *+0* | *+0* | *+0* |*+0* | *+10* | 
 | *PG-Shared-Lib* | *+0* | *+0* | *+0* |*-5* | *-28* | 
 | *PG-Synapse* | *+0* | *+0* | *+0* |*+2* | *+8* | 
-| *Platform-Genesis* | *+0* | *+0* | *+0* |*-82* | *-324* | 
-| *RAG-With-LangChain-And-FAISS* | *+0* | *+0* | *+0* |*-9* | *-3* | 
+| *Platform-Genesis* | *+0* | *+0* | *+0* |*-100* | *-366* | 
+| *RAG-With-LangChain-And-FAISS* | *+0* | *+0* | *+0* |*-11* | *-5* | 
 | *RESTful-API-FastAPI* | *+0* | *+0* | *+0* |*+0* | *-2* | 
 | *ROI-Tool* | *+0* | *+0* | *+0* |*+0* | *-2* | 
 | *The-First-PHP-Login-System* | *+0* | *+0* | *+0* |*-4* | *+0* | 
-| *Using-Streamlit-Create-Dashboard* | *+0* | *+0* | *+0* |*+3* | *+0* | 
-| *Web-Crawler-Download-Img* | *+0* | *+0* | *+0* |*+0* | *-2* | 
+| *Using-Streamlit-Create-Dashboard* | *+0* | *+0* | *+0* |*+3* | *-2* | 
+| *Web-Crawler-Download-Img* | *+0* | *+0* | *+0* |*+2* | *-4* | 
 | *Web-Crawler-FamilyMart-Shop* | *+0* | *+0* | *+0* |*+0* | *-2* | 
 | *Web-Crawler-News* | *+0* | *+0* | *+0* |*-2* | *-2* | 
 <!-- growth:end -->
