@@ -2,57 +2,57 @@
 
 | *📁 Repository* | *👀 Views* | *👤 Views Unique* | *📥 Clones* | *👤 Clones Unique* |
 |:--|--:|--:|--:|--:|
-| *[Activity-Tracker](https://github.com/Junwu0615/Activity-Tracker)* | *0* | *0* | *2* | *2* |
-| *[Airflow-E2E-DevEnv](https://github.com/Junwu0615/Airflow-E2E-DevEnv)* | *1* | *1* | *4* | *4* |
-| *[Airflow-Template](https://github.com/Junwu0615/Airflow-Template)* | *0* | *0* | *3* | *3* |
-| *[Ansible-Deploy-To-Edge](https://github.com/Junwu0615/Ansible-Deploy-To-Edge)* | *0* | *0* | *3* | *3* |
-| *[CAED](https://github.com/Junwu0615/CAED)* | *0* | *0* | *1* | *1* |
-| *[Cloudflare-Dockerization](https://github.com/Junwu0615/Cloudflare-Dockerization)* | *0* | *0* | *3* | *3* |
-| *[Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot)* | *0* | *0* | *4* | *4* |
-| *[Database-Template](https://github.com/Junwu0615/Database-Template)* | *2* | *1* | *3* | *3* |
-| *[Docker-Registry-Server](https://github.com/Junwu0615/Docker-Registry-Server)* | *2* | *2* | *2* | *2* |
-| *[Downloads-YouTube-To-MP3-4](https://github.com/Junwu0615/Downloads-YouTube-To-MP3-4)* | *10* | *10* | *2* | *2* |
-| *[Forex-Get-Quotes](https://github.com/Junwu0615/Forex-Get-Quotes)* | *0* | *0* | *2* | *2* |
-| *[github-readme-terminal](https://github.com/Junwu0615/github-readme-terminal)* | *0* | *0* | *2* | *2* |
-| *[How-To-Use-Clone-Shields](https://github.com/Junwu0615/How-To-Use-Clone-Shields)* | *0* | *0* | *4* | *4* |
-| *[Junwu0615](https://github.com/Junwu0615/Junwu0615)* | *41* | *2* | *348* | *133* |
-| *[Junwu0615-Analytics](https://github.com/Junwu0615/Junwu0615-Analytics)* | *28* | *3* | *91* | *51* |
-| *[Junwu0615.github.io](https://github.com/Junwu0615/Junwu0615.github.io)* | *0* | *0* | *2* | *2* |
-| *[Latency-Throughput-Simulation-Test](https://github.com/Junwu0615/Latency-Throughput-Simulation-Test)* | *0* | *0* | *2* | *2* |
-| *[LCII-Rec-Model](https://github.com/Junwu0615/LCII-Rec-Model)* | *0* | *0* | *42* | *4* |
-| *[LeetCode-Practice-Record](https://github.com/Junwu0615/LeetCode-Practice-Record)* | *0* | *0* | *2* | *2* |
-| *[LeetCode-Record-Sharing-Method](https://github.com/Junwu0615/LeetCode-Record-Sharing-Method)* | *1* | *1* | *5* | *5* |
-| *[My-English-Learning-Journey](https://github.com/Junwu0615/My-English-Learning-Journey)* | *0* | *0* | *3* | *3* |
-| *[My-Win-Apps](https://github.com/Junwu0615/My-Win-Apps)* | *407* | *9* | *448* | *194* |
-| *[NGROK-Dockerization](https://github.com/Junwu0615/NGROK-Dockerization)* | *0* | *0* | *2* | *2* |
-| *[NVDA-Price-Stock-Prediction](https://github.com/Junwu0615/NVDA-Price-Stock-Prediction)* | *2* | *2* | *3* | *3* |
-| *[One-Click-Database-Deployment](https://github.com/Junwu0615/One-Click-Database-Deployment)* | *1* | *1* | *4* | *4* |
-| *[Other](https://github.com/Junwu0615/Other)* | *12* | *2* | *8* | *8* |
-| *[Parsing-Media-From-JVID](https://github.com/Junwu0615/Parsing-Media-From-JVID)* | *155* | *77* | *12* | *12* |
-| *[Parsing-Media-From-PornHub](https://github.com/Junwu0615/Parsing-Media-From-PornHub)* | *2* | *2* | *3* | *3* |
-| *[PC-Activity-Tracker](https://github.com/Junwu0615/PC-Activity-Tracker)* | *16* | *1* | *396* | *150* |
-| *[PC-Bot-With-GenAI](https://github.com/Junwu0615/PC-Bot-With-GenAI)* | *6* | *2* | *2* | *2* |
-| *[PG-Airflow-DAGs](https://github.com/Junwu0615/PG-Airflow-DAGs)* | *3* | *2* | *6* | *5* |
-| *[PG-Analytics](https://github.com/Junwu0615/PG-Analytics)* | *4* | *2* | *84* | *45* |
-| *[PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core)* | *9* | *2* | *63* | *40* |
-| *[PG-Core](https://github.com/Junwu0615/PG-Core)* | *38* | *3* | *58* | *29* |
-| *[PG-Cortex](https://github.com/Junwu0615/PG-Cortex)* | *2* | *1* | *12* | *10* |
-| *[PG-Edge-Container](https://github.com/Junwu0615/PG-Edge-Container)* | *2* | *1* | *10* | *7* |
-| *[PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure)* | *26* | *2* | *75* | *32* |
-| *[PG-Sentinel](https://github.com/Junwu0615/PG-Sentinel)* | *2* | *1* | *11* | *10* |
-| *[PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib)* | *4* | *2* | *12* | *7* |
-| *[PG-Synapse](https://github.com/Junwu0615/PG-Synapse)* | *3* | *2* | *11* | *10* |
-| *[Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis)* | *145* | *7* | *173* | *72* |
-| *[RAG-With-LangChain-And-FAISS](https://github.com/Junwu0615/RAG-With-LangChain-And-FAISS)* | *0* | *0* | *2* | *2* |
-| *[RESTful-API-FastAPI](https://github.com/Junwu0615/RESTful-API-FastAPI)* | *1* | *1* | *2* | *2* |
-| *[ROI-Tool](https://github.com/Junwu0615/ROI-Tool)* | *0* | *0* | *3* | *3* |
-| *[The-First-PHP-Login-System](https://github.com/Junwu0615/The-First-PHP-Login-System)* | *0* | *0* | *2* | *2* |
-| *[Using-Streamlit-Create-Dashboard](https://github.com/Junwu0615/Using-Streamlit-Create-Dashboard)* | *5* | *2* | *3* | *3* |
-| *[Web-Crawler-Download-Img](https://github.com/Junwu0615/Web-Crawler-Download-Img)* | *1* | *1* | *2* | *2* |
-| *[Web-Crawler-FamilyMart-Shop](https://github.com/Junwu0615/Web-Crawler-FamilyMart-Shop)* | *0* | *0* | *3* | *3* |
-| *[Web-Crawler-News](https://github.com/Junwu0615/Web-Crawler-News)* | *0* | *0* | *3* | *3* |
+| _**[Activity-Tracker](https://github.com/Junwu0615/Activity-Tracker)**_ | *0* | *0* | *2* | *2* |
+| _**[Airflow-E2E-DevEnv](https://github.com/Junwu0615/Airflow-E2E-DevEnv)**_ | *1* | *1* | *4* | *4* |
+| _**[Airflow-Template](https://github.com/Junwu0615/Airflow-Template)**_ | *0* | *0* | *3* | *3* |
+| _**[Ansible-Deploy-To-Edge](https://github.com/Junwu0615/Ansible-Deploy-To-Edge)**_ | *0* | *0* | *4* | *4* |
+| _**[CAED](https://github.com/Junwu0615/CAED)**_ | *0* | *0* | *1* | *1* |
+| _**[Cloudflare-Dockerization](https://github.com/Junwu0615/Cloudflare-Dockerization)**_ | *0* | *0* | *3* | *3* |
+| _**[Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot)**_ | *0* | *0* | *4* | *4* |
+| _**[Database-Template](https://github.com/Junwu0615/Database-Template)**_ | *2* | *1* | *4* | *4* |
+| _**[Docker-Registry-Server](https://github.com/Junwu0615/Docker-Registry-Server)**_ | *2* | *2* | *2* | *2* |
+| _**[Downloads-YouTube-To-MP3-4](https://github.com/Junwu0615/Downloads-YouTube-To-MP3-4)**_ | *10* | *10* | *3* | *3* |
+| _**[Forex-Get-Quotes](https://github.com/Junwu0615/Forex-Get-Quotes)**_ | *0* | *0* | *2* | *2* |
+| _**[github-readme-terminal](https://github.com/Junwu0615/github-readme-terminal)**_ | *1* | *1* | *3* | *3* |
+| _**[How-To-Use-Clone-Shields](https://github.com/Junwu0615/How-To-Use-Clone-Shields)**_ | *0* | *0* | *4* | *4* |
+| _**[Junwu0615](https://github.com/Junwu0615/Junwu0615)**_ | *41* | *2* | *353* | *135* |
+| _**[Junwu0615-Analytics](https://github.com/Junwu0615/Junwu0615-Analytics)**_ | *35* | *3* | *98* | *53* |
+| _**[Junwu0615.github.io](https://github.com/Junwu0615/Junwu0615.github.io)**_ | *1* | *1* | *2* | *2* |
+| _**[Latency-Throughput-Simulation-Test](https://github.com/Junwu0615/Latency-Throughput-Simulation-Test)**_ | *1* | *1* | *2* | *2* |
+| _**[LCII-Rec-Model](https://github.com/Junwu0615/LCII-Rec-Model)**_ | *0* | *0* | *42* | *4* |
+| _**[LeetCode-Practice-Record](https://github.com/Junwu0615/LeetCode-Practice-Record)**_ | *0* | *0* | *2* | *2* |
+| _**[LeetCode-Record-Sharing-Method](https://github.com/Junwu0615/LeetCode-Record-Sharing-Method)**_ | *1* | *1* | *5* | *5* |
+| _**[My-English-Learning-Journey](https://github.com/Junwu0615/My-English-Learning-Journey)**_ | *0* | *0* | *3* | *3* |
+| _**[My-Win-Apps](https://github.com/Junwu0615/My-Win-Apps)**_ | *412* | *9* | *450* | *196* |
+| _**[NGROK-Dockerization](https://github.com/Junwu0615/NGROK-Dockerization)**_ | *0* | *0* | *2* | *2* |
+| _**[NVDA-Price-Stock-Prediction](https://github.com/Junwu0615/NVDA-Price-Stock-Prediction)**_ | *2* | *2* | *3* | *3* |
+| _**[One-Click-Database-Deployment](https://github.com/Junwu0615/One-Click-Database-Deployment)**_ | *1* | *1* | *4* | *4* |
+| _**[Other](https://github.com/Junwu0615/Other)**_ | *12* | *2* | *10* | *10* |
+| _**[Parsing-Media-From-JVID](https://github.com/Junwu0615/Parsing-Media-From-JVID)**_ | *161* | *78* | *15* | *14* |
+| _**[Parsing-Media-From-PornHub](https://github.com/Junwu0615/Parsing-Media-From-PornHub)**_ | *2* | *2* | *2* | *2* |
+| _**[PC-Activity-Tracker](https://github.com/Junwu0615/PC-Activity-Tracker)**_ | *16* | *1* | *383* | *144* |
+| _**[PC-Bot-With-GenAI](https://github.com/Junwu0615/PC-Bot-With-GenAI)**_ | *6* | *2* | *2* | *2* |
+| _**[PG-Airflow-DAGs](https://github.com/Junwu0615/PG-Airflow-DAGs)**_ | *4* | *2* | *6* | *5* |
+| _**[PG-Analytics](https://github.com/Junwu0615/PG-Analytics)**_ | *8* | *2* | *87* | *46* |
+| _**[PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core)**_ | *10* | *2* | *74* | *44* |
+| _**[PG-Core](https://github.com/Junwu0615/PG-Core)**_ | *46* | *4* | *94* | *45* |
+| _**[PG-Cortex](https://github.com/Junwu0615/PG-Cortex)**_ | *3* | *1* | *11* | *9* |
+| _**[PG-Edge-Container](https://github.com/Junwu0615/PG-Edge-Container)**_ | *3* | *1* | *13* | *8* |
+| _**[PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure)**_ | *29* | *3* | *86* | *39* |
+| _**[PG-Sentinel](https://github.com/Junwu0615/PG-Sentinel)**_ | *3* | *1* | *10* | *9* |
+| _**[PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib)**_ | *5* | *2* | *15* | *9* |
+| _**[PG-Synapse](https://github.com/Junwu0615/PG-Synapse)**_ | *4* | *2* | *10* | *9* |
+| _**[Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis)**_ | *171* | *7* | *256* | *105* |
+| _**[RAG-With-LangChain-And-FAISS](https://github.com/Junwu0615/RAG-With-LangChain-And-FAISS)**_ | *0* | *0* | *3* | *3* |
+| _**[RESTful-API-FastAPI](https://github.com/Junwu0615/RESTful-API-FastAPI)**_ | *1* | *1* | *3* | *3* |
+| _**[ROI-Tool](https://github.com/Junwu0615/ROI-Tool)**_ | *0* | *0* | *3* | *3* |
+| _**[The-First-PHP-Login-System](https://github.com/Junwu0615/The-First-PHP-Login-System)**_ | *0* | *0* | *2* | *2* |
+| _**[Using-Streamlit-Create-Dashboard](https://github.com/Junwu0615/Using-Streamlit-Create-Dashboard)**_ | *5* | *2* | *3* | *3* |
+| _**[Web-Crawler-Download-Img](https://github.com/Junwu0615/Web-Crawler-Download-Img)**_ | *1* | *1* | *3* | *3* |
+| _**[Web-Crawler-FamilyMart-Shop](https://github.com/Junwu0615/Web-Crawler-FamilyMart-Shop)**_ | *0* | *0* | *3* | *3* |
+| _**[Web-Crawler-News](https://github.com/Junwu0615/Web-Crawler-News)**_ | *0* | *0* | *3* | *3* |
 - ### *Summary*
-  - *👀 Views :　931*
-  - *👤 Unique Visitors :　145*
-  - *📥 Clones :　1943*
-  - *👤 Unique Cloners :　902*
+  - *👀 Views :　1000*
+  - *👤 Unique Visitors :　151*
+  - *📥 Clones :　2102*
+  - *👤 Unique Cloners :　973*
