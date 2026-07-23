@@ -33,7 +33,7 @@ from utils import (
 )
 
 
-def truncate_name(name: str, max_length: int = 30) -> str:
+def truncate_name(name: str, max_length: int = 22) -> str:
     """
     限制字串長度，超過則進行截斷並加上 ...
     """
