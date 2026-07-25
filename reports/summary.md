@@ -3,11 +3,11 @@
 | *📐 Metric* | *🧮 Value* |
 |:--|--:|
 | *📁 Total Repositories* | *49* |
-| *⭐ Total Stars* | *72* |
-| *🍴 Total Forks* | *4* |
-| *📩 Total Commit* | *3899* |
-| *📦 Size ( MB )* | *261.18* |
-| *👀 Total Views* | *1321* |
-| *👤 Total Unique Visitors* | *157* |
-| *📥 Total Clones* | *2363* |
-| *👤 Total Unique Cloners* | *1111* |
+| *⭐ Total Stars* | *73* |
+| *🍴 Total Forks* | *5* |
+| *📩 Total Commit* | *3906* |
+| *📦 Size ( MB )* | *261.22* |
+| *👀 Total Views* | *1324* |
+| *👤 Total Unique Visitors* | *161* |
+| *📥 Total Clones* | *2333* |
+| *👤 Total Unique Cloners* | *1122* |

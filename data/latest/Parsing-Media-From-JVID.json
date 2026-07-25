@@ -4,10 +4,10 @@
     "description": "Web Crawler : 解析 JVID 媒體 ( Crawler / FFmpeg / Python ) ",
     "private": false,
     "repository_metrics": {
-        "stars": 9,
-        "forks": 3,
+        "stars": 10,
+        "forks": 4,
         "watchers": 1,
-        "open_issues": 1,
+        "open_issues": 2,
         "commits_count": 9,
         "default_branch": "main",
         "language": "Python",
@@ -15,18 +15,14 @@
     },
     "activity": {
         "created_at": "2024-12-15T06:14:15+00:00",
-        "updated_at": "2026-07-24T04:45:18+00:00",
+        "updated_at": "2026-07-25T13:53:28+00:00",
         "pushed_at": "2025-11-14T12:27:05+00:00"
     },
     "traffic": {
         "views": {
-            "count": 168,
+            "count": 164,
             "uniques": 83,
             "daily": {
-                "2026-07-10": {
-                    "count": 16,
-                    "uniques": 8
-                },
                 "2026-07-11": {
                     "count": 23,
                     "uniques": 7
@@ -78,6 +74,10 @@
                 "2026-07-23": {
                     "count": 16,
                     "uniques": 11
+                },
+                "2026-07-24": {
+                    "count": 12,
+                    "uniques": 9
                 }
             }
         },
@@ -85,10 +85,6 @@
             "count": 15,
             "uniques": 14,
             "daily": {
-                "2026-07-10": {
-                    "count": 1,
-                    "uniques": 1
-                },
                 "2026-07-11": {
                     "count": 0,
                     "uniques": 0
@@ -140,9 +136,13 @@
                 "2026-07-23": {
                     "count": 0,
                     "uniques": 0
+                },
+                "2026-07-24": {
+                    "count": 1,
+                    "uniques": 1
                 }
             }
         }
     },
-    "generated_at": "2026-07-24T18:02:37.477501"
+    "generated_at": "2026-07-25T17:34:09.209454"
 }
