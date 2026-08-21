@@ -330,7 +330,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-07,PG-Sentinel,1,0,0,0,,0,0,1,1
 2026-08-07,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-07,PG-Synapse,1,0,0,0,,0,0,0,0
-2026-08-07,Parsing-Media-From-JVID,11,4,1,0,Python,3,3,2,2
+2026-08-07,Parsing-Media-From-JVID,11,5,1,0,Python,3,3,2,2
 2026-08-07,Parsing-Media-From-PornHub,3,1,1,0,Python,1,1,1,1
 2026-08-07,Platform-Genesis,3,0,0,0,Makefile,2,2,0,0
 2026-08-07,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,0,0
@@ -379,7 +379,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-08,PG-Sentinel,1,0,0,0,,0,0,1,1
 2026-08-08,PG-Shared-Lib,1,0,0,0,Python,0,0,1,1
 2026-08-08,PG-Synapse,1,0,0,0,,0,0,2,2
-2026-08-08,Parsing-Media-From-JVID,11,4,1,0,Python,16,9,1,1
+2026-08-08,Parsing-Media-From-JVID,11,5,1,0,Python,16,9,1,1
 2026-08-08,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,1,1
 2026-08-08,Platform-Genesis,3,0,0,0,Makefile,1,1,2,2
 2026-08-08,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,1,1
@@ -428,7 +428,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-09,PG-Sentinel,1,0,0,0,,0,0,1,1
 2026-08-09,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-09,PG-Synapse,1,0,0,0,,1,1,1,1
-2026-08-09,Parsing-Media-From-JVID,11,4,1,0,Python,11,9,1,1
+2026-08-09,Parsing-Media-From-JVID,11,5,1,0,Python,11,9,1,1
 2026-08-09,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,0,0
 2026-08-09,Platform-Genesis,3,0,0,0,Makefile,1,1,0,0
 2026-08-09,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,0,0
@@ -477,7 +477,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-10,PG-Sentinel,1,0,0,0,,0,0,0,0
 2026-08-10,PG-Shared-Lib,1,0,0,0,Python,1,1,0,0
 2026-08-10,PG-Synapse,1,0,0,0,,0,0,0,0
-2026-08-10,Parsing-Media-From-JVID,11,4,1,0,Python,9,7,0,0
+2026-08-10,Parsing-Media-From-JVID,11,5,1,0,Python,9,7,0,0
 2026-08-10,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,2,1
 2026-08-10,Platform-Genesis,3,0,0,0,Makefile,0,0,0,0
 2026-08-10,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,0,0
@@ -526,7 +526,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-11,PG-Sentinel,1,0,0,0,,0,0,0,0
 2026-08-11,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-11,PG-Synapse,1,0,0,0,,0,0,0,0
-2026-08-11,Parsing-Media-From-JVID,11,4,1,0,Python,15,6,0,0
+2026-08-11,Parsing-Media-From-JVID,11,5,1,0,Python,15,6,0,0
 2026-08-11,Parsing-Media-From-PornHub,3,1,1,0,Python,1,1,0,0
 2026-08-11,Platform-Genesis,3,0,0,0,Makefile,0,0,1,1
 2026-08-11,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,0,0
@@ -575,7 +575,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-12,PG-Sentinel,1,0,0,0,,0,0,0,0
 2026-08-12,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-12,PG-Synapse,1,0,0,0,,1,1,0,0
-2026-08-12,Parsing-Media-From-JVID,11,4,1,0,Python,22,5,2,2
+2026-08-12,Parsing-Media-From-JVID,11,5,1,0,Python,22,5,2,2
 2026-08-12,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,0,0
 2026-08-12,Platform-Genesis,3,0,0,0,Makefile,1,1,0,0
 2026-08-12,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,0,0
@@ -624,7 +624,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-13,PG-Sentinel,1,0,0,0,,0,0,2,2
 2026-08-13,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-13,PG-Synapse,1,0,0,0,,0,0,1,1
-2026-08-13,Parsing-Media-From-JVID,11,4,1,0,Python,23,9,0,0
+2026-08-13,Parsing-Media-From-JVID,11,5,1,0,Python,23,9,0,0
 2026-08-13,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,0,0
 2026-08-13,Platform-Genesis,3,0,0,0,Makefile,3,2,54,49
 2026-08-13,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,1,1,0,0
@@ -673,7 +673,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-14,PG-Sentinel,1,0,0,0,,0,0,1,1
 2026-08-14,PG-Shared-Lib,1,0,0,0,Python,0,0,2,2
 2026-08-14,PG-Synapse,1,0,0,0,,0,0,0,0
-2026-08-14,Parsing-Media-From-JVID,11,4,1,0,Python,22,12,0,0
+2026-08-14,Parsing-Media-From-JVID,11,5,1,0,Python,22,12,0,0
 2026-08-14,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,0,0
 2026-08-14,Platform-Genesis,3,0,0,0,Makefile,3,2,1,1
 2026-08-14,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,1,1
@@ -722,7 +722,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-15,PG-Sentinel,1,0,0,0,,0,0,0,0
 2026-08-15,PG-Shared-Lib,1,0,0,0,Python,1,1,0,0
 2026-08-15,PG-Synapse,1,0,0,0,,1,1,2,2
-2026-08-15,Parsing-Media-From-JVID,11,4,1,0,Python,16,5,0,0
+2026-08-15,Parsing-Media-From-JVID,11,5,1,0,Python,16,5,0,0
 2026-08-15,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,1,1
 2026-08-15,Platform-Genesis,3,0,0,0,Makefile,7,1,1,1
 2026-08-15,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,0,0
@@ -771,7 +771,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-16,PG-Sentinel,1,0,0,0,,0,0,1,1
 2026-08-16,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-16,PG-Synapse,1,0,0,0,,0,0,0,0
-2026-08-16,Parsing-Media-From-JVID,11,4,1,0,Python,28,8,1,1
+2026-08-16,Parsing-Media-From-JVID,11,5,1,0,Python,28,8,1,1
 2026-08-16,Parsing-Media-From-PornHub,3,1,1,0,Python,1,1,0,0
 2026-08-16,Platform-Genesis,3,0,0,0,Makefile,1,1,0,0
 2026-08-16,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,1,1,0,0
@@ -820,7 +820,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-17,PG-Sentinel,1,0,0,0,,0,0,0,0
 2026-08-17,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-17,PG-Synapse,1,0,0,0,,0,0,1,1
-2026-08-17,Parsing-Media-From-JVID,11,4,1,0,Python,27,11,1,1
+2026-08-17,Parsing-Media-From-JVID,11,5,1,0,Python,27,11,1,1
 2026-08-17,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,1,1
 2026-08-17,Platform-Genesis,3,0,0,0,Makefile,4,2,0,0
 2026-08-17,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,1,1,0,0
@@ -869,7 +869,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-18,PG-Sentinel,1,0,0,0,,0,0,0,0
 2026-08-18,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-18,PG-Synapse,1,0,0,0,,0,0,0,0
-2026-08-18,Parsing-Media-From-JVID,11,4,1,0,Python,11,5,1,1
+2026-08-18,Parsing-Media-From-JVID,11,5,1,0,Python,11,5,1,1
 2026-08-18,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,0,0
 2026-08-18,Platform-Genesis,3,0,0,0,Makefile,4,1,0,0
 2026-08-18,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,0,0
@@ -918,7 +918,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-19,PG-Sentinel,1,0,0,0,,0,0,0,0
 2026-08-19,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
 2026-08-19,PG-Synapse,1,0,0,0,,0,0,0,0
-2026-08-19,Parsing-Media-From-JVID,11,4,1,0,Python,12,11,1,1
+2026-08-19,Parsing-Media-From-JVID,11,5,1,0,Python,12,11,1,1
 2026-08-19,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,1,1
 2026-08-19,Platform-Genesis,3,0,0,0,Makefile,3,3,1,1
 2026-08-19,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,1,1,0,0
@@ -930,3 +930,52 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-19,Web-Crawler-FamilyMart-Shop,1,0,1,0,Python,0,0,0,0
 2026-08-19,Web-Crawler-News,1,0,1,0,Python,0,0,0,0
 2026-08-19,github-readme-terminal,1,0,0,0,,0,0,0,0
+2026-08-20,Activity-Tracker,2,0,0,0,Python,0,0,0,0
+2026-08-20,Airflow-E2E-DevEnv,1,0,0,0,Python,0,0,0,0
+2026-08-20,Airflow-Template,1,0,1,0,Python,0,0,0,0
+2026-08-20,Ansible-Deploy-To-Edge,1,0,0,0,Python,0,0,0,0
+2026-08-20,CAED,1,0,0,0,Python,0,0,0,0
+2026-08-20,Cloudflare-Dockerization,1,0,1,0,Python,0,0,0,0
+2026-08-20,Crawler-Keywords-And-Use-LineBot,1,0,1,0,Python,0,0,0,0
+2026-08-20,Database-Template,1,0,1,0,Python,0,0,0,0
+2026-08-20,Docker-Registry-Server,1,0,0,0,,0,0,0,0
+2026-08-20,Downloads-YouTube-To-MP3-4,3,0,1,0,Python,2,2,0,0
+2026-08-20,Forex-Get-Quotes,3,0,1,0,Python,0,0,0,0
+2026-08-20,How-To-Use-Clone-Shields,2,0,1,0,Python,0,0,0,0
+2026-08-20,Junwu0615,1,0,1,0,Python,0,0,15,6
+2026-08-20,Junwu0615-Analytics,1,0,0,0,Python,0,0,2,2
+2026-08-20,Junwu0615.github.io,1,0,1,0,HTML,0,0,0,0
+2026-08-20,LCII-Rec-Model,2,0,1,0,Python,0,0,1,1
+2026-08-20,Latency-Throughput-Simulation-Test,1,0,0,0,Python,2,1,0,0
+2026-08-20,LeetCode-Practice-Record,1,0,1,0,Python,0,0,0,0
+2026-08-20,LeetCode-Record-Sharing-Method,1,0,1,0,Python,0,0,0,0
+2026-08-20,My-English-Learning-Journey,1,0,0,0,,0,0,0,0
+2026-08-20,My-Win-Apps,1,0,0,0,PowerShell,2,1,0,0
+2026-08-20,NGROK-Dockerization,1,0,1,0,Python,0,0,0,0
+2026-08-20,NVDA-Price-Stock-Prediction,1,0,1,0,Python,0,0,1,1
+2026-08-20,One-Click-Database-Deployment,1,0,1,0,Python,0,0,0,0
+2026-08-20,Other,1,0,1,0,Python,0,0,0,0
+2026-08-20,PC-Activity-Tracker,1,0,0,0,Python,0,0,15,10
+2026-08-20,PC-Bot-With-GenAI,4,0,1,0,Python,0,0,1,1
+2026-08-20,PG-APP-Core,1,0,0,0,Python,0,0,0,0
+2026-08-20,PG-Airflow-DAGs,1,0,0,0,Python,0,0,0,0
+2026-08-20,PG-Analytics,1,0,0,0,Python,7,1,13,8
+2026-08-20,PG-Core,1,0,0,0,,1,1,0,0
+2026-08-20,PG-Cortex,1,0,0,0,,0,0,0,0
+2026-08-20,PG-Edge-Container,1,0,0,0,Makefile,0,0,0,0
+2026-08-20,PG-Infrastructure,1,0,0,0,Makefile,0,0,0,0
+2026-08-20,PG-Sentinel,1,0,0,0,,0,0,0,0
+2026-08-20,PG-Shared-Lib,1,0,0,0,Python,0,0,0,0
+2026-08-20,PG-Synapse,1,0,0,0,,0,0,0,0
+2026-08-20,Parsing-Media-From-JVID,11,5,1,0,Python,10,7,2,2
+2026-08-20,Parsing-Media-From-PornHub,3,1,1,0,Python,0,0,0,0
+2026-08-20,Platform-Genesis,3,0,0,0,Makefile,3,2,0,0
+2026-08-20,RAG-With-LangChain-And-FAISS,1,0,1,0,Jupyter Notebook,0,0,1,1
+2026-08-20,RESTful-API-FastAPI,1,0,1,0,Python,0,0,0,0
+2026-08-20,ROI-Tool,1,0,1,0,Python,0,0,0,0
+2026-08-20,The-First-PHP-Login-System,2,0,1,0,CSS,0,0,0,0
+2026-08-20,Using-Streamlit-Create-Dashboard,1,0,1,0,Python,0,0,1,1
+2026-08-20,Web-Crawler-Download-Img,1,0,1,0,Python,0,0,0,0
+2026-08-20,Web-Crawler-FamilyMart-Shop,1,0,1,0,Python,0,0,0,0
+2026-08-20,Web-Crawler-News,1,0,1,0,Python,0,0,0,0
+2026-08-20,github-readme-terminal,1,0,0,0,,0,0,0,0
