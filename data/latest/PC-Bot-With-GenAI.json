@@ -20,13 +20,9 @@
     },
     "traffic": {
         "views": {
-            "count": 5,
-            "uniques": 4,
+            "count": 6,
+            "uniques": 5,
             "daily": {
-                "2026-08-13": {
-                    "count": 0,
-                    "uniques": 0
-                },
                 "2026-08-14": {
                     "count": 0,
                     "uniques": 0
@@ -78,17 +74,17 @@
                 "2026-08-26": {
                     "count": 0,
                     "uniques": 0
+                },
+                "2026-08-27": {
+                    "count": 1,
+                    "uniques": 1
                 }
             }
         },
         "clones": {
-            "count": 8,
-            "uniques": 7,
+            "count": 7,
+            "uniques": 6,
             "daily": {
-                "2026-08-13": {
-                    "count": 1,
-                    "uniques": 1
-                },
                 "2026-08-14": {
                     "count": 1,
                     "uniques": 1
@@ -140,9 +136,13 @@
                 "2026-08-26": {
                     "count": 3,
                     "uniques": 2
+                },
+                "2026-08-27": {
+                    "count": 0,
+                    "uniques": 0
                 }
             }
         }
     },
-    "generated_at": "2026-08-28T01:06:16.611658"
+    "generated_at": "2026-08-29T00:39:00.731954"
 }
