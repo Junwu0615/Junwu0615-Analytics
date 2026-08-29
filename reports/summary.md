@@ -3,10 +3,10 @@
 | *📐 Metric* | *🧮 Value* |
 |:--|--:|
 | *📁 Total Repositories* | *49* |
-| *⭐ Total Stars* | *74* |
+| *⭐ Total Stars* | *75* |
 | *🍴 Total Forks* | *6* |
-| *📩 Total Commit* | *4191* |
-| *📦 Size ( MB )* | *259.74* |
+| *📩 Total Commit* | *4196* |
+| *📦 Size ( MB )* | *259.79* |
 | *👀 Total Views* | *2638* |
 | *👤 Total Unique Visitors* | *787* |
 | *📥 Total Clones* | *4782* |
