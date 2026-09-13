@@ -1468,6 +1468,7 @@ date,repository,stars,forks,watchers,open_issues,language,views,unique_views,clo
 2026-08-31,Airflow-E2E-DevEnv,1,0,0,0,Python,9,9,2,2
 2026-08-31,Airflow-Template,1,0,1,0,Python,0,0,0,0
 2026-08-31,Ansible-Deploy-To-Edge,1,0,0,0,Python,0,0,0,0
+2026-08-31,CAED,1,0,0,0,Python,0,0,0,0
 2026-08-31,Cloudflare-Dockerization,1,0,1,0,Python,0,0,0,0
 2026-08-31,Crawler-Keywords-And-Use-LineBot,1,0,1,0,Python,0,0,1,1
 2026-08-31,Database-Template,1,0,1,0,Python,0,0,0,0
